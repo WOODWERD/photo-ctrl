@@ -1,0 +1,21 @@
+{
+  "name": "Photo Ctrl",
+  "short_name": "Photo Ctrl",
+  "description": "Photograph your tool boxes; your own Claude reads them into Tool Ctrl.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#141311",
+  "theme_color": "#141311",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
